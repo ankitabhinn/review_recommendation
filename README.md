@@ -2,7 +2,7 @@
 
 ## About
 
-Performed mapreduce on the below dataset to provide different type of recommendation
+Performed mapreduce on the below dataset to provide different recommendation
 
 ## Requirements
 
